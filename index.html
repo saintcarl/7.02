@@ -1,0 +1,21 @@
+<html manifest="cache.manifest">
+<head>
+<title>7.02 Exploit </title>
+<script>
+
+function DLProgress(e){Percent=(Math.round(e.loaded / e.total * 100));window.msgs.innerHTML="Downloading Cache: " + Percent + "%";}
+function DisplayCacheProgress(){setTimeout(function(){window.msgs.innerHTML="Installing Cache";},1000);setTimeout(function(){window.msgs.innerHTML="Offline Cache Installed✔";},3000);}window.applicationCache.addEventListener("progress",DLProgress,false);window.applicationCache.oncached=function(e){DisplayCacheProgress();};window.applicationCache.onupdateready=function(e){DisplayCacheProgress();};
+</script>
+
+
+</head>
+<body style="background-color:#1824c9;color:white;">
+<h1 id=msgs style='font-size:30px;text-align:center;'>7.02 Exploit</h1>
+
+<center>
+  <a href="ps4/index.html">
+  <button>ps4 7.02</button>
+  </a>
+</center>
+</body>
+<html>

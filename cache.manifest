@@ -21,28 +21,6 @@ Dumper/index.html
 Dumper/int64.js
 Dumper/ps4/js
 Dumper/utils.js
-Disable Update/b702/c-code.js
-Disable Update//ira702/c-code.js
-Disable Update/ira702/mira.js
-Disable Update/7.02.js
-Disable Update/Disable-Updates.js
-Disable Update/host.py
-Disable Update/Host_win.bat
-Disable Update/index.html
-Disable Update/int64.js
-Disable Update/ps4/js
-Disable Update/utils.js
-Enable Update/b702/c-code.js
-Enable Update/ira702/c-code.js
-Enable Update/ira702/mira.js
-Enable Update/7.02.js
-Enable Update/Enable-Updates.js
-Enable Update/host.py
-Enable Update/Host_win.bat
-Enable Update/index.html
-Enable Update/int64.js
-Enable Update/ps4/js
-Enable Update/utils.js
 App2USB/b702/c-code.js
 App2USB/ira702/c-code.js
 App2USB/ira702/mira.js
@@ -54,16 +32,6 @@ App2USB/index.html
 App2USB/int64.js
 App2USB/ps4/js
 App2USB/utils.js
-BinLoader/b702/c-code.js
-BinLoader/ira702/c-code.js
-BinLoader/ira702/mira.js
-BinLoader/7.02.js
-BinLoader/host.py
-BinLoader/Host_win.bat
-BinLoader/index.html
-BinLoader/int64.js
-BinLoader/ps4/js
-BinLoader/utils.js
 Backup/b702/c-code.js
 Backup/ira702/c-code.js
 Backup/ira702/mira.js

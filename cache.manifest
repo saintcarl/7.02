@@ -10,3 +10,56 @@ ps4/rop.js
 ps4/userland.js
 ps4/utils.js
 index.html
+App2USB/jb702/c-code.js
+App2USB/mira702/c-code.js
+App2USB/mira702/mira.js
+App2USB/7.02.js
+App2USB/App2USB.js
+App2USB/index.html
+App2USB/int64.js
+App2USB/ps4.js
+App2USB/utils.js
+Backup/jb702/c-code.js
+Backup/mira702/c-code.js
+Backup/mira702/mira.js
+Backup/7.02.js
+Backup/Backup.js
+Backup/index.html
+Backup/int64.js
+Backup/ps4.js
+Backup/utils.js
+Disable Update/jb702/c-code.js
+Disable Update/mira702/c-code.js
+Disable Update/mira702/mira.js
+Disable Update/7.02.js
+Disable Update/Disable-Updates.js
+Disable Update/index.html
+Disable Update/int64.js
+Disable Update/ps4.js
+Disable Update/utils.js
+Dumper/jb702/c-code.js
+Dumper/mira702/c-code.js
+Dumper/mira702/mira.js
+Dumper/7.02.js
+Dumper/Dumper.js
+Dumper/index.html
+Dumper/int64.js
+Dumper/ps4.js
+Dumper/utils.js
+Enable Update/jb702/c-code.js
+Enable Update/mira702/c-code.js
+Enable Update/mira702/mira.js
+Enable Update/7.02.js
+Enable Update/Enable-Updates.js
+Enable Update/index.html
+Enable Update/int64.js
+Enable Update/ps4.js
+Enable Update/utils.js
+Restore/jb702/c-code.js
+Restore/mira702/mira.js
+Restore/7.02.js
+Restore/Restore.js
+Restore/index.html
+Restore/int64.js
+Restore/ps4.js
+Restore/utils.js
